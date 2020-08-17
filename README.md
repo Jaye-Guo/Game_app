@@ -1,4 +1,4 @@
 # Game_app
 
-member of 9
-university project
+Video demonstration
+https://www.youtube.com/watch?v=a6kW3ojipWI
